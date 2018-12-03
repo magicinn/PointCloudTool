@@ -1,0 +1,2 @@
+﻿  vector3f.cpp
+e:\study\studyprojects\pointcloudtool\pointcloudtool\pct_core\src\common.h(19): warning C4305: “初始化”: 从“double”到“float”截断
